@@ -84,16 +84,16 @@ This project explores the implementation of two generative models, **Deep Convol
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DCGAN-AAE-AnimeFaces.git
-   cd DCGAN-AAE-AnimeFaces
+   git clone https://github.com/yourusername/Deep-Convolutional-GAN-and-Adversarial-AutoEncoder-Appplications-With-Anime-Face-Data.git
+   cd Deep-Convolutional-GAN-and-Adversarial-AutoEncoder-Appplications-With-Anime-Face-Data
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements_AAE.txt
    ```
-3. Run the notebook:
+   or
    ```bash
-   jupyter notebook DCGAN_AAE_AnimeFaces.ipynb
+   pip install -r requirements_GANs.txt
    ```
 
 ## Pretrained Models
